@@ -72,3 +72,13 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+MyMomentsHero/Intermediate/CachedAssetRegistry.bin
+MyMomentsHero/Saved/Config/CrashReportClient/UECC-Windows-46727F7D478E2E8289B9189939043CAC/CrashReportClient.ini
+MyMomentsHero/Saved/Logs/MyMomentsHero-backup-2023.11.29-09.27.14.log
+MyMomentsHero/Intermediate/CachedAssetRegistry.bin
+*.log
+MyMomentsHero/Saved/Logs/MyMomentsHero.log
+MyMomentsHero/Intermediate/CachedAssetRegistry.bin
+MyMomentsHero/Intermediate/CachedAssetRegistry.bin
+MyMomentsHero/Saved/Config/CrashReportClient/UECC-Windows-8B6A24DA4171E999D3741DAA3A224B79/CrashReportClient.ini
+MyMomentsHero/Saved/Logs/MyMomentsHero.log
